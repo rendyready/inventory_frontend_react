@@ -2,6 +2,7 @@ Inventory Frontend React
 Sistem Inventori frontend yang dibangun dengan React.
 Digunakan untuk mengelola data produk, penjualan, kategori, pelanggan, dan supplier via
 antarmuka pengguna web.
+
 ■ Fitur
 - Autentikasi / login
 - Manajemen Produk, Kategori, Pelanggan, Supplier, Satuan, dsb
